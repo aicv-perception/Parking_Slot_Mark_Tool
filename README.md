@@ -17,6 +17,12 @@ This is python GUI tool for marking parking lot point. Based on: [MarkToolForPar
 * Pillow
 * Opencv
 
+## Getting Started:
+### Usage
+```bash
+$ python main.py
+```
+
 ## How To Use
 ### 1. Prepare & Read images
 Place all images in a folder.
