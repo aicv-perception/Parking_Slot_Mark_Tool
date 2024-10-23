@@ -24,7 +24,7 @@ Place all images in a folder.
   2. If each image has its corresponding json file, it will load automatically.
 
 ### 2. Mark Parking Slots
-Each slot need **4** points, and the following images shows an example of the order of the markers.
+Each slot need **4 points**, and the following images shows an example of the order of the markers.
   1. Click **left mouse** button once to mark the location junction points, such as **P1** and **P2**.
   2. Clockwise or counter-clockwise is fine, but note that **the junction points must be clicked first**.
 
@@ -40,9 +40,8 @@ Each slot need **4** points, and the following images shows an example of the or
   3. Click **"Delete"** button delete the image and its corresponding json file.
   4. Click **"Auto save"** in the **"Option"**, and it will save to JSON file automatically.
   5. When you not finish clicking on the 4 points of parking slot, click **mouse wheel** button to delete the point, but note that move the mouse on the point.
-  6. When you're finish clicking on the 4 points of parking slot, click **right mouse** button to delete the slot.
+  6. When you're finish clicking on the 4 points of parking slot, click **right mouse** button to delete the slot, but note that move  the mouse inside the the slot.
 
-parallel parking slots, vertical parking slots, and slanted parking slots.
 ### 4. Interface Introduction
   1. Parking slots are divided into **6** categories:
      * vertical parking slot-free
