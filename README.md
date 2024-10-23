@@ -25,8 +25,8 @@ Place all images in a folder.
 
 ### 2. Mark Parking Slots
 Each slot need **4** points, and the following images shows an example of the order of the markers.
-  1. Click **left mouse** button once to mark the location junction points, such as P1 and P2.
-  2. Clockwise or counterclockwise, but note that **the junction points must be clicked first**.
+  1. Click **left mouse** button once to mark the location junction points, such as **P1** and **P2**.
+  2. Clockwise or counter-clockwise is fine, but note that **the junction points must be clicked first**.
 
 ![example1](./video/example.png)
   
@@ -39,21 +39,21 @@ Each slot need **4** points, and the following images shows an example of the or
   2. Click **"Clear Points"** button clear all the parking slots on the image.
   3. Click **"Delete"** button delete the image and its corresponding json file.
   4. Click **"Auto save"** in the **"Option"**, and it will save to JSON file automatically.
-  5. When you not finish clicking on the 4 points of parking slot, click the **mouse wheel button** to delete the point, but note that move the mouse on the point.
-  6. When you're finish clicking on the 4 points of parking slot, click **right mouse** button to delete the slot
+  5. When you not finish clicking on the 4 points of parking slot, click **mouse wheel** button to delete the point, but note that move the mouse on the point.
+  6. When you're finish clicking on the 4 points of parking slot, click **right mouse** button to delete the slot.
 
 parallel parking slots, vertical parking slots, and slanted parking slots.
 ### 4. Interface Introduction
-  1. Parking slots are divided into **6** types:
+  1. Parking slots are divided into **6** categories:
      * vertical parking slot-free
      * vertical parking slot-occupied
      * parallel parking slot-free
      * parallel parking slot-occupied
      * slanted parking slot-free
      * slanted parking slot-occupied
-  2. List all the solts you marked with its coordinates and type.
-  3. Show tje number of the images in folder and current image number and name.
-  4. List all the image, select one of them and click **GO** button, jump to the image you select.
+  2. List all the solts you marked with its coordinates and category.
+  3. Show the number of the images in folder and current image number and name.
+  4. List all the image, select one of them and click **Go** button, jump to the image you selected.
 ![interface](./video/interface.png)
 
 ## Contact
