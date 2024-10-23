@@ -1,4 +1,4 @@
-# Parking_Slot_Mark_Tool
+# Parking Slot Mark Tool
 
 <!-- [![Watch the video](https://github.com/qwe12345113/Parking_Slot_Mark_Tool/blob/main/fig/img.png)](https://github.com/qwe12345113/Parking_Slot_Mark_Tool/blob/main/fig/tool_demo.mp4)-->
 
